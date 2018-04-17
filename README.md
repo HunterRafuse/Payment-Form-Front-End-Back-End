@@ -20,3 +20,9 @@ http://php.net/oop
 
 # Now that we covered the basics:
 Make sure you have PHP 7 installed.
+
+
+<details>
+  Now we need to make sure we have PHPMyAdmin installed as well which should come with the XAMPP or WAMPP or whatever you use for PHP testing and rendering of your .php files. 
+  
+</details>
