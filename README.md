@@ -23,6 +23,10 @@ Make sure you have PHP 7 installed.
 
 
 <details>
-  Now we need to make sure we have PHPMyAdmin installed as well which should come with the XAMPP or WAMPP or whatever you use for PHP testing and rendering of your .php files. 
-  
+  Now we need to make sure we have PHPMyAdmin installed as well which should come with the XAMPP or WAMPP or whatever you use for PHP testing and rendering of your .php files and make sure you do that before going any further.
 </details>
+
+
+## Stripe & Paypal APIs 
+We are using Stripe and or Paypal as those are the most commonly used and more reliable payment APIs to work with. I recommend creating a "work" or "developer" email that is only for signing up for APIs and other things related to development and your projects as that helps to keep things organized on a very basic level.
+
