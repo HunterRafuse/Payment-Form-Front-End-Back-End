@@ -28,5 +28,9 @@ Make sure you have PHP 7 installed.
 
 
 ## Stripe & Paypal APIs 
-We are using Stripe and or Paypal as those are the most commonly used and more reliable payment APIs to work with. I recommend creating a "work" or "developer" email that is only for signing up for APIs and other things related to development and your projects as that helps to keep things organized on a very basic level.
+We are going to use Stripe and or Paypal as those are the most commonly used and more reliable payment APIs to work with. I recommend creating a "work" or "developer" email that is only for signing up for APIs and other things related to development and your projects as that helps to keep things organized on a very basic level.
 
+#Creating the application:
+<section>
+  
+  </section>
