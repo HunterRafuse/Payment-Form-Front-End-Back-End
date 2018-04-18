@@ -18,6 +18,9 @@ http://php.net/while
 OOP, Object Oriented Programming:
 http://php.net/oop
 
+MYSQL Databse creation & connection
+
+
 # Now that we covered the basics:
 Make sure you have PHP 7 installed.
 
